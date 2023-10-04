@@ -1,5 +1,1 @@
-# Projek_Kotlin
-# Projek_Kotlin
-# Repository-Baru
-# Projek_Kotlin
-# Projek_Kotlin
+Cinema ticket booking program is a program that allows users to order the film they want to watch with a choice of number of seats, cinema location, and studio choice, this program was created using the Kotlin programming language.
